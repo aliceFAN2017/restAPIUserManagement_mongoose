@@ -3,4 +3,4 @@
 2. back-end: node.js
 3. database: mongoose
 4. API: REST
-5. Type "http://localhost:8080" to run it.
+5. Type "http://localhost:8888" to run it.
